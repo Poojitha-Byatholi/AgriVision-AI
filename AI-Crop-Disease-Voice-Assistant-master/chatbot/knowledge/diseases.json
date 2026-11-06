@@ -1,0 +1,595 @@
+{
+  "Tomato___Early_blight": {
+    "crop": {
+      "English": "Tomato",
+      "Telugu": "టమోటా",
+      "Hindi": "टमाटर"
+    },
+    "symptoms": {
+      "English": [
+        "Brown spots on older leaves",
+        "Yellowing around the spots"
+      ],
+      "Telugu": [
+        "పాత ఆకులపై గోధుమ రంగు మచ్చలు",
+        "మచ్చల చుట్టూ పసుపు రంగు"
+      ],
+      "Hindi": [
+        "पुरानी पत्तियों पर भूरे धब्बे",
+        "धब्बों के चारों ओर पीलापन"
+      ]
+    },
+    "general_advice": {
+      "English": [
+        "Remove infected leaves",
+        "Avoid overhead irrigation",
+        "Maintain proper spacing"
+      ],
+      "Telugu": [
+        "సోకిన ఆకులను తొలగించండి",
+        "పై నుంచి నీరు పోయడం నివారించండి",
+        "సరైన దూరం పాటించండి"
+      ],
+      "Hindi": [
+        "संक्रमित पत्तियों को हटाएँ",
+        "ऊपर से सिंचाई से बचें",
+        "उचित दूरी बनाए रखें"
+      ]
+    },
+    "note": {
+      "English": "This is general advisory information. Disease severity may vary.",
+      "Telugu": "ఇది సాధారణ మార్గదర్శక సమాచారం మాత్రమే. వ్యాధి తీవ్రత మారవచ్చు.",
+      "Hindi": "यह सामान्य मार्गदर्शन जानकारी है। रोग की तीव्रता भिन्न हो सकती है।"
+    }
+  },
+
+  "Tomato___Late_blight": {
+    "crop": {
+      "English": "Tomato",
+      "Telugu": "టమోటా",
+      "Hindi": "टमाटर"
+    },
+    "symptoms": {
+      "English": [
+        "Dark patches on leaves",
+        "Rapid wilting under wet conditions"
+      ],
+      "Telugu": [
+        "ఆకులపై ముదురు మచ్చలు",
+        "తడి పరిస్థితుల్లో వేగంగా వాడిపోవడం"
+      ],
+      "Hindi": [
+        "पत्तियों पर गहरे धब्बे",
+        "गीली परिस्थितियों में तेजी से मुरझाना"
+      ]
+    },
+    "general_advice": {
+      "English": [
+        "Improve field drainage",
+        "Avoid excessive moisture",
+        "Seek expert advice for control measures"
+      ],
+      "Telugu": [
+        "పొలంలో నీటి పారుదల మెరుగుపరచండి",
+        "అధిక తేమను నివారించండి",
+        "నియంత్రణ చర్యల కోసం నిపుణుల సలహా తీసుకోండి"
+      ],
+      "Hindi": [
+        "खेत की जल निकासी सुधारें",
+        "अत्यधिक नमी से बचें",
+        "नियंत्रण उपायों के लिए विशेषज्ञ की सलाह लें"
+      ]
+    },
+    "note": {
+      "English": "Late blight spreads rapidly in humid weather. Consult local experts.",
+      "Telugu": "తేమ ఎక్కువగా ఉన్న వాతావరణంలో లేట్ బ్లైట్ వేగంగా వ్యాపిస్తుంది. స్థానిక నిపుణులను సంప్రదించండి.",
+      "Hindi": "नमी वाले मौसम में लेट ब्लाइट तेजी से फैलता है। स्थानीय विशेषज्ञों से परामर्श लें।"
+    }
+  },
+
+  "Potato___Early_blight": {
+    "crop": {
+      "English": "Potato",
+      "Telugu": "బంగాళాదుంప",
+      "Hindi": "आलू"
+    },
+    "symptoms": {
+      "English": [
+        "Brown concentric rings on leaves",
+        "Premature leaf drop"
+      ],
+      "Telugu": [
+        "ఆకులపై గోధుమ రంగు వృత్తాకార మచ్చలు",
+        "ముందుగానే ఆకులు రాలిపోవడం"
+      ],
+      "Hindi": [
+        "पत्तियों पर भूरे गोल छल्ले",
+        "समय से पहले पत्तियों का गिरना"
+      ]
+    },
+    "general_advice": {
+      "English": [
+        "Maintain soil fertility",
+        "Avoid plant stress",
+        "Use healthy seed tubers"
+      ],
+      "Telugu": [
+        "నేల సారాన్ని కాపాడండి",
+        "మొక్కలపై ఒత్తిడి నివారించండి",
+        "ఆరోగ్యకరమైన విత్తన గడ్డలను ఉపయోగించండి"
+      ],
+      "Hindi": [
+        "मिट्टी की उर्वरता बनाए रखें",
+        "पौधों पर तनाव से बचें",
+        "स्वस्थ बीज कंदों का उपयोग करें"
+      ]
+    },
+    "note": {
+      "English": "Symptoms may worsen under nutrient deficiency.",
+      "Telugu": "పోషక లోపం ఉన్నప్పుడు లక్షణాలు తీవ్రమవవచ్చు.",
+      "Hindi": "पोषक तत्वों की कमी में लक्षण गंभीर हो सकते हैं।"
+    }
+  },
+
+  "Potato___Late_blight": {
+    "crop": {
+      "English": "Potato",
+      "Telugu": "బంగాళాదుంప",
+      "Hindi": "आलू"
+    },
+    "symptoms": {
+      "English": [
+        "Dark brown leaf lesions",
+        "White fungal growth under leaves"
+      ],
+      "Telugu": [
+        "ఆకులపై ముదురు గోధుమ రంగు మచ్చలు",
+        "ఆకుల కింద తెల్లటి శిలీంద్ర వృద్ధి"
+      ],
+      "Hindi": [
+        "पत्तियों पर गहरे भूरे धब्बे",
+        "पत्तियों के नीचे सफेद फफूंद वृद्धि"
+      ]
+    },
+    "general_advice": {
+      "English": [
+        "Remove infected plant parts",
+        "Avoid water stagnation",
+        "Follow crop rotation"
+      ],
+      "Telugu": [
+        "సోకిన మొక్క భాగాలను తొలగించండి",
+        "నీరు నిల్వ ఉండకుండా చూడండి",
+        "పంట మార్పిడి పద్ధతి అనుసరించండి"
+      ],
+      "Hindi": [
+        "संक्रमित पौधों के हिस्से हटाएँ",
+        "पानी जमा होने से बचें",
+        "फसल चक्र अपनाएँ"
+      ]
+    },
+    "note": {
+      "English": "Weather conditions strongly influence disease spread.",
+      "Telugu": "వాతావరణ పరిస్థితులు వ్యాధి వ్యాప్తిపై తీవ్ర ప్రభావం చూపుతాయి.",
+      "Hindi": "मौसम की परिस्थितियाँ रोग के फैलाव को अत्यधिक प्रभावित करती हैं।"
+    }
+  },
+
+  "Rice___Brown_spot": {
+    "crop": {
+      "English": "Rice",
+      "Telugu": "వరి",
+      "Hindi": "धान"
+    },
+    "symptoms": {
+      "English": [
+        "Brown circular spots on leaves",
+        "Reduced grain quality"
+      ],
+      "Telugu": [
+        "ఆకులపై గోధుమ వృత్తాకార మచ్చలు",
+        "గింజల నాణ్యత తగ్గడం"
+      ],
+      "Hindi": [
+        "पत्तियों पर भूरे गोल धब्बे",
+        "दाने की गुणवत्ता में कमी"
+      ]
+    },
+    "general_advice": {
+      "English": [
+        "Maintain balanced fertilization",
+        "Avoid water stress",
+        "Use certified seeds"
+      ],
+      "Telugu": [
+        "సమతుల్య ఎరువుల వినియోగం పాటించండి",
+        "నీటి ఒత్తిడిని నివారించండి",
+        "సర్టిఫైడ్ విత్తనాలను ఉపయోగించండి"
+      ],
+      "Hindi": [
+        "संतुलित उर्वरक उपयोग बनाए रखें",
+        "जल तनाव से बचें",
+        "प्रमाणित बीजों का उपयोग करें"
+      ]
+    },
+    "note": {
+      "English": "Symptoms may overlap with nutrient deficiency.",
+      "Telugu": "ఈ లక్షణాలు పోషక లోపంతో కూడా పోలి ఉండవచ్చు.",
+      "Hindi": "लक्षण पोषक तत्वों की कमी से भी मिलते-जुलते हो सकते हैं।"
+    }
+  },
+
+  "Rice___Bacterial_leaf_blight": {
+    "crop": {
+      "English": "Rice",
+      "Telugu": "వరి",
+      "Hindi": "धान"
+    },
+    "symptoms": {
+      "English": [
+        "Yellowing and drying of leaf margins",
+        "Wilting of seedlings"
+      ],
+      "Telugu": [
+        "ఆకు అంచులు పసుపు రంగు కావడం మరియు ఎండిపోవడం",
+        "నాటిన మొక్కలు వాడిపోవడం"
+      ],
+      "Hindi": [
+        "पत्तियों के किनारों का पीला और सूखना",
+        "नर्सरी पौधों का मुरझाना"
+      ]
+    },
+    "general_advice": {
+      "English": [
+        "Ensure proper drainage",
+        "Avoid excess nitrogen fertilizer",
+        "Use resistant varieties if available"
+      ],
+      "Telugu": [
+        "సరైన నీటి పారుదల కల్పించండి",
+        "అధిక నైట్రోజన్ ఎరువులను నివారించండి",
+        "అందుబాటులో ఉంటే నిరోధక రకాలను ఉపయోగించండి"
+      ],
+      "Hindi": [
+        "उचित जल निकासी सुनिश्चित करें",
+        "अत्यधिक नाइट्रोजन उर्वरक से बचें",
+        "उपलब्ध हो तो प्रतिरोधी किस्में अपनाएँ"
+      ]
+    },
+    "note": {
+      "English": "Disease spread depends on water and weather conditions.",
+      "Telugu": "వ్యాధి వ్యాప్తి నీరు మరియు వాతావరణ పరిస్థితులపై ఆధారపడి ఉంటుంది.",
+      "Hindi": "रोग का फैलाव पानी और मौसम की परिस्थितियों पर निर्भर करता है।"
+    }
+  },
+
+  "Wheat___Yellow_rust": {
+    "crop": {
+      "English": "Wheat",
+      "Telugu": "గోధుమ",
+      "Hindi": "गेहूं"
+    },
+    "symptoms": {
+      "English": [
+        "Yellow streaks on leaves",
+        "Reduced grain formation"
+      ],
+      "Telugu": [
+        "ఆకులపై పసుపు గీతలు",
+        "గింజల ఏర్పాటులో తగ్గుదల"
+      ],
+      "Hindi": [
+        "पत्तियों पर पीली धारियाँ",
+        "दाने बनने में कमी"
+      ]
+    },
+    "general_advice": {
+      "English": [
+        "Avoid late sowing",
+        "Maintain crop hygiene",
+        "Monitor fields regularly"
+      ],
+      "Telugu": [
+        "ఆలస్యంగా విత్తడం నివారించండి",
+        "పంట పరిశుభ్రత పాటించండి",
+        "పొలాలను క్రమం తప్పకుండా పరిశీలించండి"
+      ],
+      "Hindi": [
+        "देरी से बुवाई से बचें",
+        "फसल स्वच्छता बनाए रखें",
+        "खेतों की नियमित निगरानी करें"
+      ]
+    },
+    "note": {
+      "English": "Early detection helps reduce crop loss.",
+      "Telugu": "ముందస్తు గుర్తింపు పంట నష్టాన్ని తగ్గించడంలో సహాయపడుతుంది.",
+      "Hindi": "प्रारंभिक पहचान फसल नुकसान को कम करने में मदद करती है।"
+    }
+  },
+
+  "Wheat___Brown_rust": {
+    "crop": {
+      "English": "Wheat",
+      "Telugu": "గోధుమ",
+      "Hindi": "गेहूं"
+    },
+    "symptoms": {
+      "English": [
+        "Brown pustules on leaves",
+        "Reduced photosynthesis"
+      ],
+      "Telugu": [
+        "ఆకులపై గోధుమ రంగు పుళ్ళు",
+        "ప్రకాశ సంశ్లేషణ తగ్గడం"
+      ],
+      "Hindi": [
+        "पत्तियों पर भूरे फफोले",
+        "प्रकाश संश्लेषण में कमी"
+      ]
+    },
+    "general_advice": {
+      "English": [
+        "Use resistant varieties",
+        "Avoid overcrowding",
+        "Follow recommended agronomic practices"
+      ],
+      "Telugu": [
+        "నిరోధక రకాలను ఉపయోగించండి",
+        "అతి సాంద్రత నివారించండి",
+        "సిఫార్సు చేసిన వ్యవసాయ పద్ధతులు పాటించండి"
+      ],
+      "Hindi": [
+        "प्रतिरोधी किस्मों का उपयोग करें",
+        "अत्यधिक घनत्व से बचें",
+        "अनुशंसित कृषि पद्धतियाँ अपनाएँ"
+      ]
+    },
+    "note": {
+      "English": "Rust severity varies by region and climate.",
+      "Telugu": "తుప్పు వ్యాధి తీవ్రత ప్రాంతం మరియు వాతావరణాన్ని బట్టి మారుతుంది.",
+      "Hindi": "जंग रोग की तीव्रता क्षेत्र और जलवायु के अनुसार बदलती है।"
+    }
+  },
+
+  "Cotton___Bacterial_blight": {
+  "crop": {
+    "English": "Cotton",
+    "Telugu": "పత్తి",
+    "Hindi": "कपास"
+  },
+  "symptoms": {
+    "English": [
+      "Angular leaf spots",
+      "Damage to bolls in severe cases"
+    ],
+    "Telugu": [
+      "ఆకులపై మూలలతో ఉన్న మచ్చలు",
+      "తీవ్రమైన పరిస్థితుల్లో బోల్లులకు నష్టం"
+    ],
+    "Hindi": [
+      "पत्तियों पर कोणीय धब्बे",
+      "गंभीर मामलों में बॉल्स को नुकसान"
+    ]
+  },
+  "general_advice": {
+    "English": [
+      "Use disease-free seeds",
+      "Avoid overhead irrigation",
+      "Remove infected plant debris"
+    ],
+    "Telugu": [
+      "వ్యాధిలేని విత్తనాలను ఉపయోగించండి",
+      "పై నుండి నీరు పోయడం నివారించండి",
+      "సోకిన మొక్క అవశేషాలను తొలగించండి"
+    ],
+    "Hindi": [
+      "रोग मुक्त बीजों का उपयोग करें",
+      "ऊपर से सिंचाई से बचें",
+      "संक्रमित पौध अवशेष हटाएँ"
+    ]
+  },
+  "note": {
+    "English": "Preventive measures are more effective than curative actions.",
+    "Telugu": "చికిత్స కంటే నివారణ చర్యలు ఎక్కువ ప్రభావవంతంగా ఉంటాయి.",
+    "Hindi": "रोकथाम के उपाय उपचार से अधिक प्रभावी होते हैं।"
+  }
+},
+  
+  "Cotton___Curl_virus": {
+  "crop": {
+    "English": "Cotton",
+    "Telugu": "పత్తి",
+    "Hindi": "कपास"
+  },
+  "symptoms": {
+    "English": [
+      "Leaf curling",
+      "Stunted plant growth"
+    ],
+    "Telugu": [
+      "ఆకులు ముడుచుకుపోవడం",
+      "మొక్క ఎదుగుదల తగ్గిపోవడం"
+    ],
+    "Hindi": [
+      "पत्तियों का मुड़ना",
+      "पौधों की वृद्धि रुक जाना"
+    ]
+  },
+  "general_advice": {
+    "English": [
+      "Control insect vectors",
+      "Remove infected plants early",
+      "Maintain field sanitation"
+    ],
+    "Telugu": [
+      "కీటక వాహకాలను నియంత్రించండి",
+      "సోకిన మొక్కలను తొందరగా తొలగించండి",
+      "పొల పరిశుభ్రతను పాటించండి"
+    ],
+    "Hindi": [
+      "कीट वाहकों को नियंत्रित करें",
+      "संक्रमित पौधों को शीघ्र हटाएँ",
+      "खेत की स्वच्छता बनाए रखें"
+    ]
+  },
+  "note": {
+    "English": "Viral diseases cannot be cured; prevention is critical.",
+    "Telugu": "వైరస్ వ్యాధులకు చికిత్స లేదు; నివారణే ముఖ్యమైనది.",
+    "Hindi": "वायरल रोगों का इलाज नहीं होता; रोकथाम अत्यंत आवश्यक है।"
+  }
+},
+
+ "Pepper_bell___Bacterial_spot": {
+  "crop": {
+    "English": "Pepper",
+    "Telugu": "మిరప",
+    "Hindi": "मिर्च"
+  },
+  "symptoms": {
+    "English": [
+      "Water-soaked spots on leaves",
+      "Leaf yellowing and drop"
+    ],
+    "Telugu": [
+      "ఆకులపై నీటితో నిండిన మచ్చలు",
+      "ఆకులు పసుపు రంగులోకి మారి రాలిపోవడం"
+    ],
+    "Hindi": [
+      "पत्तियों पर पानी से भरे धब्बे",
+      "पत्तियों का पीला पड़ना और गिरना"
+    ]
+  },
+  "general_advice": {
+    "English": [
+      "Avoid overhead watering",
+      "Use clean planting material",
+      "Maintain proper spacing"
+    ],
+    "Telugu": [
+      "పై నుండి నీరు పోయడం నివారించండి",
+      "శుభ్రమైన నాటే పదార్థాన్ని ఉపయోగించండి",
+      "సరైన దూరం పాటించండి"
+    ],
+    "Hindi": [
+      "ऊपर से पानी देने से बचें",
+      "स्वच्छ रोपण सामग्री का उपयोग करें",
+      "उचित दूरी बनाए रखें"
+    ]
+  },
+  "note": {
+    "English": "Bacterial diseases spread rapidly under humid conditions.",
+    "Telugu": "తేమ ఎక్కువగా ఉన్నప్పుడు బ్యాక్టీరియా వ్యాధులు వేగంగా వ్యాపిస్తాయి.",
+    "Hindi": "आर्द्र परिस्थितियों में बैक्टीरियल रोग तेजी से फैलते हैं।"
+  }
+},
+
+ "Corn_(maize)___Common_rust": {
+  "crop": {
+    "English": "Maize",
+    "Telugu": "మక్క",
+    "Hindi": "मक्का"
+  },
+  "symptoms": {
+    "English": [
+      "Reddish-brown pustules on leaves",
+      "Reduced plant vigor"
+    ],
+    "Telugu": [
+      "ఆకులపై ఎరుపు-గోధుమ పుళ్ళు",
+      "మొక్క శక్తి తగ్గిపోవడం"
+    ],
+    "Hindi": [
+      "पत्तियों पर लाल-भूरे फफोले",
+      "पौधे की शक्ति में कमी"
+    ]
+  },
+  "general_advice": {
+    "English": [
+      "Maintain balanced nutrition",
+      "Use resistant varieties",
+      "Monitor crop regularly"
+    ],
+    "Telugu": [
+      "సమతుల్య పోషకాహారం ఇవ్వండి",
+      "నిరోధక రకాలను ఉపయోగించండి",
+      "పంటను క్రమం తప్పకుండా పరిశీలించండి"
+    ],
+    "Hindi": [
+      "संतुलित पोषण बनाए रखें",
+      "प्रतिरोधी किस्मों का उपयोग करें",
+      "फसल की नियमित निगरानी करें"
+    ]
+  },
+  "note": {
+    "English": "Rust severity depends on weather and crop stage.",
+    "Telugu": "తుప్పు వ్యాధి తీవ్రత వాతావరణం మరియు పంట దశపై ఆధారపడి ఉంటుంది.",
+    "Hindi": "जंग रोग की तीव्रता मौसम और फसल अवस्था पर निर्भर करती है।"
+  }
+},
+
+"Corn_(maize)___Northern_Leaf_Blight": {
+  "crop": {
+    "English": "Maize",
+    "Telugu": "మక్క",
+    "Hindi": "मक्का"
+  },
+  "symptoms": {
+    "English": [
+      "Long grey-green lesions on leaves",
+      "Premature leaf drying"
+    ],
+    "Telugu": [
+      "ఆకులపై పొడవైన బూడిద-ఆకుపచ్చ మచ్చలు",
+      "ఆకులు ముందుగానే ఎండిపోవడం"
+    ],
+    "Hindi": [
+      "पत्तियों पर लंबे धूसर-हरे धब्बे",
+      "पत्तियों का समय से पहले सूखना"
+    ]
+  },
+  "general_advice": {
+    "English": [
+      "Avoid continuous monocropping",
+      "Remove crop residues",
+      "Ensure proper field sanitation"
+    ],
+    "Telugu": [
+      "ఒకే పంటను వరుసగా సాగు చేయకుండా ఉండండి",
+      "పంట అవశేషాలను తొలగించండి",
+      "పొల పరిశుభ్రతను నిర్ధారించండి"
+    ],
+    "Hindi": [
+      "लगातार एक ही फसल न उगाएँ",
+      "फसल अवशेष हटाएँ",
+      "खेत की स्वच्छता सुनिश्चित करें"
+    ]
+  },
+  "note": {
+    "English": "Disease pressure varies by region and season.",
+    "Telugu": "వ్యాధి తీవ్రత ప్రాంతం మరియు కాలాన్ని బట్టి మారుతుంది.",
+    "Hindi": "रोग का दबाव क्षेत्र और मौसम के अनुसार बदलता है।"
+  }
+},
+
+  "__FALLBACK__": {
+    "message": {
+      "English": "Detailed advisory information for this crop or disease is currently not available. The system provides general guidance only. Please consult a local agricultural expert or extension officer for accurate diagnosis and treatment.",
+      "Telugu": "ఈ పంట లేదా వ్యాధికి సంబంధించిన వివరమైన మార్గదర్శక సమాచారం ప్రస్తుతం అందుబాటులో లేదు. ఈ వ్యవస్థ సాధారణ మార్గదర్శకత మాత్రమే అందిస్తుంది. ఖచ్చితమైన నిర్ధారణ మరియు చికిత్స కోసం స్థానిక వ్యవసాయ నిపుణులు లేదా విస్తరణ అధికారులను సంప్రదించండి.",
+      "Hindi": "इस फसल या रोग के लिए विस्तृत सलाह जानकारी वर्तमान में उपलब्ध नहीं है। यह प्रणाली केवल सामान्य मार्गदर्शन प्रदान करती है। सटीक निदान और उपचार के लिए स्थानीय कृषि विशेषज्ञ या विस्तार अधिकारी से परामर्श करें।"
+    },
+    "supported_crops": [
+      "Tomato",
+      "Potato",
+      "Rice",
+      "Wheat",
+      "Cotton",
+      "Pepper",
+      "Maize"
+    ],
+    "note": {
+      "English": "The chatbot knowledge base is expandable. Unsupported cases are handled safely to avoid incorrect recommendations.",
+      "Telugu": "చాట్‌బాట్ జ్ఞాన భాండారం విస్తరించదగినది. తప్పు సిఫారసులు నివారించేందుకు మద్దతు లేని సందర్భాలు సురక్షితంగా నిర్వహించబడతాయి.",
+      "Hindi": "चैटबॉट ज्ञान आधार को बढ़ाया जा सकता है। गलत सिफारिशों से बचने के लिए असमर्थित मामलों को सुरक्षित रूप से संभाला जाता है।"
+    }
+  }
+}

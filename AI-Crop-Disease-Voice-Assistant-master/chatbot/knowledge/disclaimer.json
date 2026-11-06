@@ -1,0 +1,9 @@
+{
+  "general_disclaimer": {
+    "English": "This chatbot provides general agricultural guidance for educational purposes only. The information may not be accurate for all crops, soils, or climatic conditions. Farmers are advised to consult local agricultural officers or experts before taking final decisions.",
+
+    "Telugu": "ఈ చాట్‌బాట్ విద్యాపరమైన ప్రయోజనాల కోసం సాధారణ వ్యవసాయ మార్గదర్శకత మాత్రమే అందిస్తుంది. ఈ సమాచారం అన్ని పంటలు, నేలలు లేదా వాతావరణ పరిస్థితులకు ఖచ్చితంగా సరిపోవచ్చు అన్న హామీ లేదు. తుది నిర్ణయాలు తీసుకునే ముందు రైతులు స్థానిక వ్యవసాయ అధికారులు లేదా నిపుణులను సంప్రదించాలని సూచించబడుతోంది.",
+
+    "Hindi": "यह चैटबॉट केवल शैक्षणिक उद्देश्यों के लिए सामान्य कृषि मार्गदर्शन प्रदान करता है। यह जानकारी सभी फसलों, मिट्टी या जलवायु परिस्थितियों के लिए सटीक हो यह आवश्यक नहीं है। अंतिम निर्णय लेने से पहले किसानों को स्थानीय कृषि अधिकारियों या विशेषज्ञों से परामर्श करने की सलाह दी जाती है।"
+  }
+}

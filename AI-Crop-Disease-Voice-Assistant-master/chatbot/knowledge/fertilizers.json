@@ -1,0 +1,343 @@
+{
+  "Tomato": {
+    "vegetative_stage": {
+      "recommended_fertilizers": {
+        "English": ["Urea", "DAP", "Balanced NPK fertilizers"],
+        "Telugu": ["యూరియా", "డీఏపీ", "సమతుల్య NPK ఎరువులు"],
+        "Hindi": ["यूरिया", "डीएपी", "संतुलित NPK उर्वरक"]
+      },
+      "purpose": {
+        "English": "Supports leaf and stem growth",
+        "Telugu": "ఆకు మరియు కాండం పెరుగుదలను ప్రోత్సహిస్తుంది",
+        "Hindi": "पत्तियों और तने की वृद्धि में सहायता करता है"
+      },
+      "advice": {
+        "English": "Apply fertilizers based on soil condition and crop stage.",
+        "Telugu": "నేల పరిస్థితి మరియు పంట దశ ఆధారంగా ఎరువులు వేయాలి.",
+        "Hindi": "मिट्टी की स्थिति और फसल अवस्था के अनुसार उर्वरक डालें।"
+      },
+      "note": {
+        "English": "General guidance only. Soil testing is recommended.",
+        "Telugu": "ఇది సాధారణ మార్గదర్శకత్వం మాత్రమే. నేల పరీక్ష చేయాలి.",
+        "Hindi": "यह सामान्य मार्गदर्शन है। मिट्टी परीक्षण की सलाह दी जाती है।"
+      }
+    },
+    "flowering_stage": {
+      "recommended_fertilizers": {
+        "English": ["NPK 19-19-19", "Potassium-rich fertilizers"],
+        "Telugu": ["NPK 19-19-19", "పొటాషియం అధిక ఎరువులు"],
+        "Hindi": ["NPK 19-19-19", "पोटैशियम युक्त उर्वरक"]
+      },
+      "purpose": {
+        "English": "Improves flowering and fruit development",
+        "Telugu": "పూలు మరియు పండ్ల అభివృద్ధిని మెరుగుపరుస్తుంది",
+        "Hindi": "फूल और फल विकास में सुधार करता है"
+      },
+      "advice": {
+        "English": "Avoid excess nitrogen during flowering stage.",
+        "Telugu": "పుష్ప దశలో అధిక నత్రజని నివారించాలి.",
+        "Hindi": "फूल आने के సమయంలో अधिक नाइट्रोजन से बचें।"
+      },
+      "note": {
+        "English": "Consult local agricultural experts before application.",
+        "Telugu": "వినియోగానికి ముందు స్థానిక వ్యవసాయ నిపుణులను సంప్రదించండి.",
+        "Hindi": "प्रयोग से पहले स्थानीय कृषि विशेषज्ञों से परामर्श लें।"
+      }
+    }
+  },
+
+  "Potato": {
+    "early_growth_stage": {
+      "recommended_fertilizers": {
+        "English": ["DAP", "Balanced NPK"],
+        "Telugu": ["డీఏపీ", "సమతుల్య NPK"],
+        "Hindi": ["डीएपी", "संतुलित NPK"]
+      },
+      "purpose": {
+        "English": "Promotes early plant establishment",
+        "Telugu": "ప్రారంభ మొక్క స్థాపనకు సహాయపడుతుంది",
+        "Hindi": "प्रारंभिक पौध स्थापना को बढ़ावा देता है"
+      },
+      "advice": {
+        "English": "Ensure proper soil moisture for nutrient uptake.",
+        "Telugu": "పోషకాలు శోషణకు సరైన నేల తేమ అవసరం.",
+        "Hindi": "पोषक तत्व अवशोषण के लिए उचित मिट्टी नमी रखें।"
+      },
+      "note": {
+        "English": "Fertilizer efficiency varies with soil type.",
+        "Telugu": "నేల రకాన్ని బట్టి ఎరువుల ప్రభావం మారుతుంది.",
+        "Hindi": "उर्वरक की प्रभावशीलता मिट्टी के प्रकार पर निर्भर करती है।"
+      }
+    },
+    "tuber_development_stage": {
+      "recommended_fertilizers": {
+        "English": ["Potassium-based fertilizers"],
+        "Telugu": ["పొటాషియం ఆధారిత ఎరువులు"],
+        "Hindi": ["पोटैशियम आधारित उर्वरक"]
+      },
+      "purpose": {
+        "English": "Supports tuber formation and quality",
+        "Telugu": "గడ్డల ఏర్పాటుకు మరియు నాణ్యతకు సహాయపడుతుంది",
+        "Hindi": "कंद निर्माण और गुणवत्ता में सहायता करता है"
+      },
+      "advice": {
+        "English": "Avoid excessive nitrogen at this stage.",
+        "Telugu": "ఈ దశలో అధిక నత్రజని నివారించాలి.",
+        "Hindi": "इस अवस्था में अधिक नाइट्रोजन से बचें।"
+      },
+      "note": {
+        "English": "Overuse may reduce tuber quality.",
+        "Telugu": "అధిక వినియోగం గడ్డల నాణ్యతను తగ్గించవచ్చు.",
+        "Hindi": "अधिक उपयोग से कंद की गुणवत्ता घट सकती है।"
+      }
+    }
+  },
+
+  "Rice": {
+    "tillering_stage": {
+      "recommended_fertilizers": {
+        "English": ["Urea", "Nitrogen-based fertilizers"],
+        "Telugu": ["యూరియా", "నత్రజని ఆధారిత ఎరువులు"],
+        "Hindi": ["यूरिया", "नाइट्रोजन आधारित उर्वरक"]
+      },
+      "purpose": {
+        "English": "Encourages tiller formation",
+        "Telugu": "కొమ్మల ఏర్పాటును ప్రోత్సహిస్తుంది",
+        "Hindi": "टिलर बनने को प्रोत्साहित करता है"
+      },
+      "advice": {
+        "English": "Split application is generally preferred.",
+        "Telugu": "విభజితంగా వేయడం మంచిది.",
+        "Hindi": "विभाजित मात्रा में प्रयोग करना बेहतर है।"
+      },
+      "note": {
+        "English": "Water management affects fertilizer performance.",
+        "Telugu": "నీటి నిర్వహణ ఎరువుల ప్రభావాన్ని ప్రభావితం చేస్తుంది.",
+        "Hindi": "जल प्रबंधन उर्वरक की प्रभावशीलता को प्रभावित करता है।"
+      }
+    },
+    "panicle_initiation_stage": {
+      "recommended_fertilizers": {
+        "English": ["NPK fertilizers", "Potassium supplements"],
+        "Telugu": ["NPK ఎరువులు", "పొటాషియం సప్లిమెంట్లు"],
+        "Hindi": ["NPK उर्वरक", "पोटैशियम पूरक"]
+      },
+      "purpose": {
+        "English": "Supports grain formation",
+        "Telugu": "ధాన్య ఏర్పాటుకు సహాయపడుతుంది",
+        "Hindi": "दाने बनने में सहायता करता है"
+      },
+      "advice": {
+        "English": "Balanced nutrition helps improve yield.",
+        "Telugu": "సమతుల్య పోషణ దిగుబడిని పెంచుతుంది.",
+        "Hindi": "संतुलित पोषण उपज बढ़ाने में मदद करता है।"
+      },
+      "note": {
+        "English": "Actual requirement depends on soil fertility.",
+        "Telugu": "వాస్తవ అవసరం నేల సారంపై ఆధారపడి ఉంటుంది.",
+        "Hindi": "वास्तविक आवश्यकता मिट्टी की उर्वरता पर निर्भर करती है।"
+      }
+    }
+  },
+
+  "Wheat": {
+    "early_growth_stage": {
+      "recommended_fertilizers": {
+        "English": ["Urea", "DAP"],
+        "Telugu": ["యూరియా", "డీఏపీ"],
+        "Hindi": ["यूरिया", "डीएपी"]
+      },
+      "purpose": {
+        "English": "Supports early vegetative growth",
+        "Telugu": "ప్రారంభ వృక్ష పెరుగుదలకు సహాయపడుతుంది",
+        "Hindi": "प्रारंभिक वनस्पति वृद्धि में सहायता करता है"
+      },
+      "advice": {
+        "English": "Timely application improves nutrient absorption.",
+        "Telugu": "సమయానికి వినియోగం పోషక శోషణను మెరుగుపరుస్తుంది.",
+        "Hindi": "समय पर प्रयोग पोषक तत्व अवशोषण को बेहतर बनाता है।"
+      },
+      "note": {
+        "English": "Excess fertilizer may cause lodging.",
+        "Telugu": "అధిక ఎరువులు మొక్కలు పడిపోవడానికి కారణమవుతాయి.",
+        "Hindi": "अधिक उर्वरक से फसल गिर सकती है।"
+      }
+    },
+    "grain_filling_stage": {
+      "recommended_fertilizers": {
+        "English": ["Potassium-based fertilizers"],
+        "Telugu": ["పొటాషియం ఆధారిత ఎరువులు"],
+        "Hindi": ["पोटैशियम आधारित उर्वरक"]
+      },
+      "purpose": {
+        "English": "Improves grain quality",
+        "Telugu": "ధాన్య నాణ్యతను మెరుగుపరుస్తుంది",
+        "Hindi": "दाने की गुणवत्ता में सुधार करता है"
+      },
+      "advice": {
+        "English": "Avoid late heavy nitrogen application.",
+        "Telugu": "ఆఖరి దశలో అధిక నత్రజని నివారించాలి.",
+        "Hindi": "अंतिम अवस्था में अधिक नाइट्रोजन से बचें।"
+      },
+      "note": {
+        "English": "Consult experts for precise nutrient management.",
+        "Telugu": "ఖచ్చితమైన పోషక నిర్వహణకు నిపుణులను సంప్రదించండి.",
+        "Hindi": "सटीक पोषण प्रबंधन के लिए विशेषज्ञों से परामर्श लें।"
+      }
+    }
+  },
+
+  "Cotton": {
+    "vegetative_stage": {
+      "recommended_fertilizers": {
+        "English": ["Nitrogen fertilizers", "Balanced NPK"],
+        "Telugu": ["నత్రజని ఎరువులు", "సమతుల్య NPK"],
+        "Hindi": ["नाइट्रोजन उर्वरक", "संतुलित NPK"]
+      },
+      "purpose": {
+        "English": "Promotes plant height and leaf growth",
+        "Telugu": "మొక్క ఎత్తు మరియు ఆకు పెరుగుదలను పెంచుతుంది",
+        "Hindi": "पौधे की ऊँचाई और पत्तियों की वृद्धि बढ़ाता है"
+      },
+      "advice": {
+        "English": "Ensure proper spacing for effective nutrient use.",
+        "Telugu": "సరైన అంతరం పోషకాల వినియోగానికి సహాయపడుతుంది.",
+        "Hindi": "उचित दूरी पोषक उपयोग को बेहतर बनाती है।"
+      },
+      "note": {
+        "English": "Soil testing is recommended.",
+        "Telugu": "నేల పరీక్ష చేయడం సిఫారసు చేయబడింది.",
+        "Hindi": "मिट्टी परीक्षण की सलाह दी जाती है।"
+      }
+    },
+    "boll_formation_stage": {
+      "recommended_fertilizers": {
+        "English": ["Potassium-rich fertilizers"],
+        "Telugu": ["పొటాషియం అధిక ఎరువులు"],
+        "Hindi": ["पोटैशियम युक्त उर्वरक"]
+      },
+      "purpose": {
+        "English": "Supports boll development",
+        "Telugu": "బోల్ అభివృద్ధికి సహాయపడుతుంది",
+        "Hindi": "बोल विकास में सहायता करता है"
+      },
+      "advice": {
+        "English": "Avoid excessive nitrogen during this stage.",
+        "Telugu": "ఈ దశలో అధిక నత్రజని నివారించాలి.",
+        "Hindi": "इस अवस्था में अधिक नाइट्रोजन से बचें।"
+      },
+      "note": {
+        "English": "Environmental factors influence effectiveness.",
+        "Telugu": "పర్యావరణ పరిస్థితులు ప్రభావాన్ని ప్రభావితం చేస్తాయి.",
+        "Hindi": "पर्यावरणीय कारक प्रभावशीलता को प्रभावित करते हैं।"
+      }
+    }
+  },
+
+  "Pepper": {
+    "vegetative_stage": {
+      "recommended_fertilizers": {
+        "English": ["Balanced NPK fertilizers"],
+        "Telugu": ["సమతుల్య NPK ఎరువులు"],
+        "Hindi": ["संतुलित NPK उर्वरक"]
+      },
+      "purpose": {
+        "English": "Encourages healthy foliage growth",
+        "Telugu": "ఆరోగ్యకరమైన ఆకు పెరుగుదలను ప్రోత్సహిస్తుంది",
+        "Hindi": "स्वस्थ पत्तियों की वृद्धि को प्रोत्साहित करता है"
+      },
+      "advice": {
+        "English": "Apply fertilizers in small quantities.",
+        "Telugu": "చిన్న పరిమాణాలలో ఎరువులు వేయాలి.",
+        "Hindi": "उर्वरक कम मात्रा में डालें।"
+      },
+      "note": {
+        "English": "Excess fertilizer may damage roots.",
+        "Telugu": "అధిక ఎరువులు వేర్లకు హాని కలిగించవచ్చు.",
+        "Hindi": "अधिक उर्वरक जड़ों को नुकसान पहुँचा सकता है।"
+      }
+    },
+    "fruiting_stage": {
+      "recommended_fertilizers": {
+        "English": ["Potassium-based fertilizers"],
+        "Telugu": ["పొటాషియం ఆధారిత ఎరువులు"],
+        "Hindi": ["पोटैशियम आधारित उर्वरक"]
+      },
+      "purpose": {
+        "English": "Improves fruit size and quality",
+        "Telugu": "పండ్ల పరిమాణం మరియు నాణ్యతను మెరుగుపరుస్తుంది",
+        "Hindi": "फल के आकार और गुणवत्ता में सुधार करता है"
+      },
+      "advice": {
+        "English": "Maintain adequate soil moisture.",
+        "Telugu": "తగినంత నేల తేమను ఉంచాలి.",
+        "Hindi": "पर्याप्त मिट्टी नमी बनाए रखें।"
+      },
+      "note": {
+        "English": "Nutrient uptake varies with irrigation.",
+        "Telugu": "పోషక శోషణ నీటి నిర్వహణపై ఆధారపడి ఉంటుంది.",
+        "Hindi": "पोषक तत्व अवशोषण सिंचाई पर निर्भर करता है।"
+      }
+    }
+  },
+
+  "Maize": {
+    "early_growth_stage": {
+      "recommended_fertilizers": {
+        "English": ["Urea", "DAP"],
+        "Telugu": ["యూరియా", "డీఏపీ"],
+        "Hindi": ["यूरिया", "डीएपी"]
+      },
+      "purpose": {
+        "English": "Supports early plant development",
+        "Telugu": "ప్రారంభ మొక్క అభివృద్ధికి సహాయపడుతుంది",
+        "Hindi": "प्रारंभिक पौध विकास में सहायता करता है"
+      },
+      "advice": {
+        "English": "Uniform application is important.",
+        "Telugu": "సమానంగా వేయడం ముఖ్యం.",
+        "Hindi": "समान रूप से प्रयोग करना आवश्यक है।"
+      },
+      "note": {
+        "English": "Soil texture affects efficiency.",
+        "Telugu": "నేల నిర్మాణం ప్రభావాన్ని ప్రభావితం చేస్తుంది.",
+        "Hindi": "मिट्टी की बनावट प्रभावशीलता को प्रभावित करती है।"
+      }
+    },
+    "tasseling_stage": {
+      "recommended_fertilizers": {
+        "English": ["Nitrogen and Potassium fertilizers"],
+        "Telugu": ["నత్రజని మరియు పొటాషియం ఎరువులు"],
+        "Hindi": ["नाइट्रोजन और पोटैशियम उर्वरक"]
+      },
+      "purpose": {
+        "English": "Supports grain formation",
+        "Telugu": "ధాన్య ఏర్పాటుకు సహాయపడుతుంది",
+        "Hindi": "दाने बनने में सहायता करता है"
+      },
+      "advice": {
+        "English": "Avoid nutrient stress during tasseling.",
+        "Telugu": "టాసెలింగ్ దశలో పోషక లోపం నివారించాలి.",
+        "Hindi": "टैसलिंग के दौरान पोषक तनाव से बचें।"
+      },
+      "note": {
+        "English": "Weather conditions influence response.",
+        "Telugu": "వాతావరణ పరిస్థితులు ప్రతిస్పందనను ప్రభావితం చేస్తాయి.",
+        "Hindi": "मौसम की स्थिति फसल प्रतिक्रिया को प्रभावित करती है।"
+      }
+    }
+  },
+
+  "__FALLBACK__": {
+    "message": {
+      "English": "Fertilizer information for this crop or stage is currently limited. Please consult agricultural experts.",
+      "Telugu": "ఈ పంట లేదా దశకు ఎరువు సమాచారం ప్రస్తుతం పరిమితంగా ఉంది. వ్యవసాయ నిపుణులను సంప్రదించండి.",
+      "Hindi": "इस फसल या अवस्था के लिए उर्वरक जानकारी सीमित है। कृषि विशेषज्ञों से परामर्श लें।"
+    },
+    "note": {
+      "English": "This system provides general guidance only.",
+      "Telugu": "ఈ వ్యవస్థ సాధారణ మార్గదర్శకత్వం మాత్రమే అందిస్తుంది.",
+      "Hindi": "यह प्रणाली केवल सामान्य मार्गदर्शन प्रदान करती है।"
+    }
+  }
+}

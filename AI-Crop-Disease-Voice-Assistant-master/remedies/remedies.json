@@ -1,0 +1,193 @@
+{
+  "Tomato___Late_blight": {
+    "English": {
+      "remedies": [
+        "Apply Metalaxyl + Mancozeb fungicide",
+        "Avoid water stagnation on leaves",
+        "Use disease-free seedlings"
+      ]
+    },
+    "Telugu": {
+      "remedies": [
+        "మెటాలాక్సిల్ + మాంకోజెబ్ పిచికారీ చేయండి",
+        "ఆకులపై నీరు నిల్వ ఉండకుండా చూడండి",
+        "రోగరహిత మొక్కలను ఉపయోగించండి"
+      ]
+    },
+    "Hindi": {
+      "remedies": [
+        "मेटालैक्सिल + मैनकोजेब का छिड़काव करें",
+        "पत्तियों पर पानी जमा न होने दें",
+        "रोग-मुक्त पौधों का उपयोग करें"
+      ]
+    }
+  },
+
+  "Tomato___Early_blight": {
+    "English": {
+      "remedies": [
+        "Spray Chlorothalonil fungicide",
+        "Remove infected leaves",
+        "Maintain proper spacing"
+      ]
+    },
+    "Telugu": {
+      "remedies": [
+        "క్లోరోథాలోనిల్ పిచికారీ చేయండి",
+        "సంక్రమిత ఆకులను తొలగించండి",
+        "సరైన మొక్కల దూరం పాటించండి"
+      ]
+    },
+    "Hindi": {
+      "remedies": [
+        "क्लोरोथालोनिल का छिड़काव करें",
+        "संक्रमित पत्तियों को हटाएं",
+        "पौधों के बीच उचित दूरी रखें"
+      ]
+    }
+  },
+
+  "Potato___Late_blight": {
+    "English": {
+      "remedies": [
+        "Apply Metalaxyl + Mancozeb",
+        "Avoid overhead irrigation",
+        "Destroy infected plants"
+      ]
+    },
+    "Telugu": {
+      "remedies": [
+        "మెటాలాక్సిల్ + మాంకోజెబ్ వాడండి",
+        "పై నుండి నీరు పోయకుండా చూడండి",
+        "సంక్రమిత మొక్కలను తొలగించండి"
+      ]
+    },
+    "Hindi": {
+      "remedies": [
+        "मेटालैक्सिल + मैनकोजेब का उपयोग करें",
+        "ऊपर से सिंचाई न करें",
+        "संक्रमित पौधों को नष्ट करें"
+      ]
+    }
+  },
+
+  "Potato___Early_blight": {
+    "English": {
+      "remedies": [
+        "Spray Chlorothalonil",
+        "Practice crop rotation",
+        "Avoid excess nitrogen fertilizer"
+      ]
+    },
+    "Telugu": {
+      "remedies": [
+        "క్లోరోథాలోనిల్ పిచికారీ చేయండి",
+        "పంటల మార్పిడి పాటించండి",
+        "అధిక నత్రజని ఎరువులు వాడకండి"
+      ]
+    },
+    "Hindi": {
+      "remedies": [
+        "क्लोरोथालोनिल का छिड़काव करें",
+        "फसल चक्र अपनाएं",
+        "अधिक नाइट्रोजन उर्वरक से बचें"
+      ]
+    }
+  },
+
+  "Rice___Brown_spot": {
+    "English": {
+      "remedies": [
+        "Apply Mancozeb or Carbendazim",
+        "Use certified healthy seeds",
+        "Maintain field hygiene"
+      ]
+    },
+    "Telugu": {
+      "remedies": [
+        "మాంకోజెబ్ లేదా కార్బెండాజిమ్ వాడండి",
+        "సర్టిఫైడ్ విత్తనాలు ఉపయోగించండి",
+        "పొలాన్ని శుభ్రంగా ఉంచండి"
+      ]
+    },
+    "Hindi": {
+      "remedies": [
+        "मैनकोजेब या कार्बेन्डाजिम का उपयोग करें",
+        "प्रमाणित बीजों का प्रयोग करें",
+        "खेत की सफाई रखें"
+      ]
+    }
+  },
+
+  "Wheat___Yellow_rust": {
+    "English": {
+      "remedies": [
+        "Spray Tebuconazole fungicide",
+        "Avoid late sowing",
+        "Use resistant varieties"
+      ]
+    },
+    "Telugu": {
+      "remedies": [
+        "టెబుకోనాజోల్ పిచికారీ చేయండి",
+        "ఆలస్యంగా విత్తనాలు వేయవద్దు",
+        "నిరోధక రకాలు ఉపయోగించండి"
+      ]
+    },
+    "Hindi": {
+      "remedies": [
+        "टेबुकोनाज़ोल का छिड़काव करें",
+        "देर से बुवाई न करें",
+        "प्रतिरोधी किस्में अपनाएं"
+      ]
+    }
+  },
+
+  "Wheat___Brown_rust": {
+    "English": {
+      "remedies": [
+        "Apply Propiconazole fungicide",
+        "Remove infected plants",
+        "Ensure timely irrigation"
+      ]
+    },
+    "Telugu": {
+      "remedies": [
+        "ప్రోపికోనాజోల్ వాడండి",
+        "సంక్రమిత మొక్కలను తొలగించండి",
+        "సకాలంలో నీరు అందించండి"
+      ]
+    },
+    "Hindi": {
+      "remedies": [
+        "प्रोपिकोनाज़ोल का उपयोग करें",
+        "संक्रमित पौधों को हटाएं",
+        "समय पर सिंचाई करें"
+      ]
+    }
+  },
+
+  "Corn_(maize)___Common_rust": {
+    "English": {
+      "remedies": [
+        "Spray Propiconazole",
+        "Use resistant hybrids",
+        "Destroy crop residue"
+      ]
+    },
+    "Telugu": {
+      "remedies": [
+        "ప్రోపికోనాజోల్ పిచికారీ చేయండి",
+        "నిరోధక హైబ్రిడ్స్ ఉపయోగించండి",
+        "పంట అవశేషాలను తొలగించండి"
+      ]
+    },
+    "Hindi": {
+      "remedies": [
+        "प्रोपिकोनाज़ोल का छिड़काव करें",
+        "प्रतिरोधी संकर किस्में अपनाएं",
+        "फसल अवशेष नष्ट करें"
+      ]
+    }
+  }
+}

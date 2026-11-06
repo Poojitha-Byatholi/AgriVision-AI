@@ -1,0 +1,123 @@
+{
+  "general_prevention": {
+    "applicable_crops": [
+      "Tomato",
+      "Potato",
+      "Rice",
+      "Wheat",
+      "Cotton",
+      "Pepper",
+      "Maize"
+    ],
+    "preventive_practices": {
+      "English": [
+        "Use certified and disease-free seeds",
+        "Follow crop rotation practices",
+        "Maintain proper plant spacing",
+        "Remove infected plant debris from fields",
+        "Avoid excessive use of chemical pesticides",
+        "Ensure balanced fertilizer application",
+        "Monitor crops regularly for early symptoms"
+      ],
+      "Telugu": [
+        "సర్టిఫై చేసిన మరియు వ్యాధిలేని విత్తనాలను ఉపయోగించండి",
+        "పంట మార్పిడి విధానాలను అనుసరించండి",
+        "మొక్కల మధ్య సరైన అంతరం ఉంచండి",
+        "పొలాల నుండి వ్యాధిగ్రస్త మొక్కల అవశేషాలను తొలగించండి",
+        "రసాయన కీటకనాశకాల అధిక వినియోగాన్ని నివారించండి",
+        "సమతుల్య ఎరువు వినియోగాన్ని నిర్ధారించండి",
+        "ప్రారంభ లక్షణాల కోసం పంటలను తరచుగా పరిశీలించండి"
+      ],
+      "Hindi": [
+        "प्रमाणित और रोगमुक्त बीजों का उपयोग करें",
+        "फसल चक्र पद्धति अपनाएँ",
+        "पौधों के बीच उचित दूरी बनाए रखें",
+        "खेत से संक्रमित पौध अवशेषों को हटाएँ",
+        "रासायनिक कीटनाशकों के अत्यधिक उपयोग से बचें",
+        "संतुलित उर्वरक प्रयोग सुनिश्चित करें",
+        "प्रारंभिक लक्षणों के लिए फसलों की नियमित निगरानी करें"
+      ]
+    },
+    "note": {
+      "English": "Preventive practices reduce risk but do not guarantee complete protection.",
+      "Telugu": "నివారణ చర్యలు ప్రమాదాన్ని తగ్గిస్తాయి కానీ పూర్తి రక్షణకు హామీ ఇవ్వవు.",
+      "Hindi": "निवारक उपाय जोखिम कम करते हैं, लेकिन पूर्ण सुरक्षा की गारंटी नहीं देते।"
+    }
+  },
+
+  "pest_management": {
+    "description": {
+      "English": "General pest prevention measures applicable across crops",
+      "Telugu": "అన్ని పంటలకు వర్తించే సాధారణ కీటక నివారణ చర్యలు",
+      "Hindi": "सभी फसलों पर लागू सामान्य कीट नियंत्रण उपाय"
+    },
+    "practices": {
+      "English": [
+        "Use pest-resistant varieties where available",
+        "Encourage natural predators",
+        "Avoid continuous monocropping",
+        "Use pesticides only when necessary"
+      ],
+      "Telugu": [
+        "లభ్యమైతే కీటక నిరోధక విత్తన రకాలను ఉపయోగించండి",
+        "సహజ శత్రువులను ప్రోత్సహించండి",
+        "తదితర పంటల మార్పిడి లేకుండా ఒకే పంటను పండించడాన్ని నివారించండి",
+        "అవసరమైనప్పుడు మాత్రమే కీటకనాశకాలను ఉపయోగించండి"
+      ],
+      "Hindi": [
+        "जहाँ उपलब्ध हो वहाँ कीट प्रतिरोधी किस्मों का उपयोग करें",
+        "प्राकृतिक शत्रुओं को प्रोत्साहित करें",
+        "लगातार एक ही फसल उगाने से बचें",
+        "कीटनाशकों का उपयोग केवल आवश्यकता होने पर करें"
+      ]
+    },
+    "note": {
+      "English": "Improper pesticide use may harm beneficial organisms.",
+      "Telugu": "తప్పు కీటకనాశక వినియోగం లాభదాయక జీవులకు హానికరం కావచ్చు.",
+      "Hindi": "कीटनाशकों का अनुचित उपयोग लाभकारी जीवों को नुकसान पहुँचा सकता है।"
+    }
+  },
+
+  "irrigation_management": {
+    "description": {
+      "English": "Water management practices to prevent crop stress and disease",
+      "Telugu": "పంట ఒత్తిడి మరియు వ్యాధులను నివారించేందుకు నీటి నిర్వహణ విధానాలు",
+      "Hindi": "फसल तनाव और रोग से बचाव हेतु जल प्रबंधन उपाय"
+    },
+    "practices": {
+      "English": [
+        "Avoid over-irrigation",
+        "Ensure proper drainage",
+        "Irrigate during early morning or late evening"
+      ],
+      "Telugu": [
+        "అధిక నీటి పిచికారీని నివారించండి",
+        "సరైన నీటి పారుదలని నిర్ధారించండి",
+        "ఉదయం తొలిసారి లేదా సాయంత్రం ఆలస్యంగా నీటిపారుదల చేయండి"
+      ],
+      "Hindi": [
+        "अधिक सिंचाई से बचें",
+        "उचित जल निकास सुनिश्चित करें",
+        "सुबह जल्दी या शाम को देर से सिंचाई करें"
+      ]
+    },
+    "note": {
+      "English": "Irrigation practices should be adjusted based on soil and weather conditions.",
+      "Telugu": "నేల మరియు వాతావరణ పరిస్థితుల ఆధారంగా నీటి నిర్వహణ మార్చాలి.",
+      "Hindi": "मिट्टी और मौसम की स्थिति के अनुसार सिंचाई प्रबंधन करना चाहिए।"
+    }
+  },
+
+  "__FALLBACK__": {
+    "message": {
+      "English": "Preventive information for this query is currently limited. Following good agricultural practices and consulting local experts is recommended.",
+      "Telugu": "ఈ ప్రశ్నకు సంబంధించిన నివారణ సమాచారం ప్రస్తుతం పరిమితంగా ఉంది. మంచి వ్యవసాయ విధానాలను అనుసరించి, స్థానిక నిపుణులను సంప్రదించండి.",
+      "Hindi": "इस प्रश्न के लिए निवारक जानकारी सीमित है। अच्छे कृषि अभ्यास अपनाने और स्थानीय विशेषज्ञों से परामर्श लेने की सलाह दी जाती है।"
+    },
+    "note": {
+      "English": "The prevention advisory module provides general guidance and can be expanded.",
+      "Telugu": "ఈ నివారణ సలహా మాడ్యూల్ సాధారణ మార్గదర్శకత్వం మాత్రమే అందిస్తుంది మరియు విస్తరించవచ్చు.",
+      "Hindi": "यह निवारण सलाह मॉड्यूल सामान्य मार्गदर्शन प्रदान करता है और इसे आगे बढ़ाया जा सकता है।"
+    }
+  }
+}

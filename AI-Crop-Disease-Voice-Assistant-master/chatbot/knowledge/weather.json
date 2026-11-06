@@ -1,0 +1,476 @@
+{
+  "tomato": {
+    "high_temperature": {
+      "possible_impacts": {
+        "English": [
+          "Flower drop",
+          "Reduced fruit set",
+          "Moisture stress"
+        ],
+        "Telugu": [
+          "పూలు పడిపోవడం",
+          "పండ్ల ఏర్పాటులో తగ్గుదల",
+          "తేమ ఒత్తిడి"
+        ],
+        "Hindi": [
+          "फूल झड़ना",
+          "फल बनने में कमी",
+          "नमी तनाव"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Provide frequent but controlled irrigation",
+          "Use mulching to reduce soil temperature",
+          "Avoid spraying during peak heat hours"
+        ],
+        "Telugu": [
+          "తరచుగా కానీ నియంత్రిత నీటిపారుదల చేయండి",
+          "నేల ఉష్ణోగ్రత తగ్గించేందుకు మల్చింగ్ ఉపయోగించండి",
+          "తీవ్ర వేడి సమయంలో స్ప్రే చేయడం నివారించండి"
+        ],
+        "Hindi": [
+          "बार-बार लेकिन नियंत्रित सिंचाई करें",
+          "मिट्टी का तापमान कम करने के लिए मल्चिंग करें",
+          "अधिक गर्मी के समय छिड़काव से बचें"
+        ]
+      }
+    },
+    "high_humidity": {
+      "possible_impacts": {
+        "English": [
+          "Increased fungal diseases",
+          "Poor foliage drying"
+        ],
+        "Telugu": [
+          "శిలీంధ్ర వ్యాధులు పెరగడం",
+          "ఆకులు సరిగా ఆరిపోకపోవడం"
+        ],
+        "Hindi": [
+          "फफूंद जनित रोगों में वृद्धि",
+          "पत्तियों का ठीक से सूख न पाना"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Improve air circulation",
+          "Avoid overhead irrigation",
+          "Monitor for leaf spot and blight diseases"
+        ],
+        "Telugu": [
+          "గాలి ప్రసరణను మెరుగుపరచండి",
+          "పై నుంచి నీరు పోయడం నివారించండి",
+          "ఆకు మచ్చలు మరియు బ్లైట్ వ్యాధులను గమనించండి"
+        ],
+        "Hindi": [
+          "हवा का संचार बेहतर बनाएँ",
+          "ऊपर से सिंचाई से बचें",
+          "लीफ स्पॉट और ब्लाइट रोगों की निगरानी करें"
+        ]
+      }
+    }
+  },
+
+  "potato": {
+    "heavy_rain": {
+      "possible_impacts": {
+        "English": [
+          "Waterlogging",
+          "Tuber rot",
+          "Increased disease incidence"
+        ],
+        "Telugu": [
+          "నీరు నిల్వ కావడం",
+          "గడ్డల కుళ్లిపోవడం",
+          "వ్యాధుల తీవ్రత పెరగడం"
+        ],
+        "Hindi": [
+          "जलभराव",
+          "कंद सड़न",
+          "रोगों की अधिकता"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Ensure proper drainage",
+          "Avoid irrigation during continuous rainfall",
+          "Monitor for late blight symptoms"
+        ],
+        "Telugu": [
+          "సరైన నీటి పారుదల ఏర్పాటు చేయండి",
+          "తీవ్ర వర్షాల సమయంలో నీటిపారుదల నివారించండి",
+          "లేట్ బ్లైట్ లక్షణాలను గమనించండి"
+        ],
+        "Hindi": [
+          "उचित जल निकास सुनिश्चित करें",
+          "लगातार वर्षा के दौरान सिंचाई से बचें",
+          "लेट ब्लाइट के लक्षणों पर नज़र रखें"
+        ]
+      }
+    },
+    "frost": {
+      "possible_impacts": {
+        "English": [
+          "Leaf burn",
+          "Growth retardation"
+        ],
+        "Telugu": [
+          "ఆకులు కాలిపోవడం",
+          "మొక్కల పెరుగుదల మందగించడం"
+        ],
+        "Hindi": [
+          "पत्तियों का झुलसना",
+          "विकास में रुकावट"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Provide light irrigation before frost",
+          "Use protective coverings where possible"
+        ],
+        "Telugu": [
+          "మంచు పడే ముందు తేలికపాటి నీటిపారుదల చేయండి",
+          "సాధ్యమైన చోట రక్షణ కవచాలను ఉపయోగించండి"
+        ],
+        "Hindi": [
+          "पाला पड़ने से पहले हल्की सिंचाई करें",
+          "जहाँ संभव हो सुरक्षा आवरण का उपयोग करें"
+        ]
+      }
+    }
+  },
+
+  "pepper": {
+    "high_temperature": {
+      "possible_impacts": {
+        "English": [
+          "Flower drop",
+          "Poor fruit development"
+        ],
+        "Telugu": [
+          "పూలు పడిపోవడం",
+          "పండ్ల అభివృద్ధి సరిగా లేకపోవడం"
+        ],
+        "Hindi": [
+          "फूल झड़ना",
+          "फल का खराब विकास"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Irrigate during cooler hours",
+          "Use shade nets if available",
+          "Maintain soil moisture"
+        ],
+        "Telugu": [
+          "చల్లని సమయాల్లో నీటిపారుదల చేయండి",
+          "లభ్యమైతే షేడ్ నెట్‌లను ఉపయోగించండి",
+          "నేల తేమను నిలుపుకోండి"
+        ],
+        "Hindi": [
+          "ठंडे समय में सिंचाई करें",
+          "यदि उपलब्ध हो तो शेड नेट का उपयोग करें",
+          "मिट्टी में नमी बनाए रखें"
+        ]
+      }
+    },
+    "high_humidity": {
+      "possible_impacts": {
+        "English": [
+          "Fungal and bacterial diseases"
+        ],
+        "Telugu": [
+          "శిలీంద్ర మరియు బ్యాక్టీరియా వ్యాధులు"
+        ],
+        "Hindi": [
+          "फफूंद और जीवाणु रोग"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Ensure good air circulation",
+          "Avoid water stagnation",
+          "Regular disease monitoring"
+        ],
+        "Telugu": [
+          "మంచి గాలి ప్రసరణను నిర్ధారించండి",
+          "నీరు నిల్వ కాకుండా చూసుకోండి",
+          "నిరంతరం వ్యాధుల పర్యవేక్షణ చేయండి"
+        ],
+        "Hindi": [
+          "अच्छा वायु संचार सुनिश्चित करें",
+          "जलभराव से बचें",
+          "नियमित रोग निगरानी करें"
+        ]
+      }
+    }
+  },
+
+  "maize": {
+    "drought": {
+      "possible_impacts": {
+        "English": [
+          "Reduced plant height",
+          "Poor cob formation",
+          "Yield loss"
+        ],
+        "Telugu": [
+          "మొక్కల ఎత్తు తగ్గిపోవడం",
+          "కాబ్ ఏర్పాటులో లోపం",
+          "దిగుబడి తగ్గుదల"
+        ],
+        "Hindi": [
+          "पौधे की ऊँचाई कम होना",
+          "भुट्टे का खराब बनना",
+          "उपज में कमी"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Irrigate at critical growth stages",
+          "Adopt moisture conservation practices"
+        ],
+        "Telugu": [
+          "ముఖ్యమైన పెరుగుదల దశల్లో నీటిపారుదల చేయండి",
+          "తేమ సంరక్షణ పద్ధతులు అనుసరించండి"
+        ],
+        "Hindi": [
+          "महत्वपूर्ण वृद्धि चरणों में सिंचाई करें",
+          "नमी संरक्षण तकनीकों को अपनाएँ"
+        ]
+      }
+    },
+    "high_temperature": {
+      "possible_impacts": {
+        "English": [
+          "Heat stress",
+          "Reduced grain filling"
+        ],
+        "Telugu": [
+          "వేడి ఒత్తిడి",
+          "ధాన్య నింపుదల తగ్గిపోవడం"
+        ],
+        "Hindi": [
+          "गर्मी का तनाव",
+          "दाने भरने में कमी"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Ensure timely irrigation",
+          "Avoid moisture stress during flowering"
+        ],
+        "Telugu": [
+          "సమయానికి నీటిపారుదల చేయండి",
+          "పుష్ప దశలో తేమ ఒత్తిడి నివారించండి"
+        ],
+        "Hindi": [
+          "समय पर सिंचाई सुनिश्चित करें",
+          "फूल आने के समय नमी तनाव से बचें"
+        ]
+      }
+    }
+  },
+
+  "rice": {
+    "heavy_rain": {
+      "possible_impacts": {
+        "English": [
+          "Water stagnation",
+          "Root damage",
+          "Increased pest and disease spread"
+        ],
+        "Telugu": [
+          "నీరు నిల్వ కావడం",
+          "వేర్లకు నష్టం",
+          "కీటకాలు మరియు వ్యాధుల వ్యాప్తి పెరగడం"
+        ],
+        "Hindi": [
+          "जलभराव",
+          "जड़ों को नुकसान",
+          "कीट और रोगों का प्रसार बढ़ना"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Maintain optimal water level",
+          "Ensure proper drainage during excess rainfall"
+        ],
+        "Telugu": [
+          "సరైన నీటి స్థాయిని కొనసాగించండి",
+          "అధిక వర్షాల సమయంలో సరైన నీటి పారుదల చేయండి"
+        ],
+        "Hindi": [
+          "उचित जल स्तर बनाए रखें",
+          "अधिक वर्षा के दौरान जल निकास सुनिश्चित करें"
+        ]
+      }
+    },
+    "high_humidity": {
+      "possible_impacts": {
+        "English": [
+          "Blast and sheath blight diseases"
+        ],
+        "Telugu": [
+          "బ్లాస్ట్ మరియు షీత్ బ్లైట్ వ్యాధులు"
+        ],
+        "Hindi": [
+          "ब्लास्ट और शीथ ब्लाइट रोग"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Monitor fields regularly",
+          "Use disease-resistant varieties if possible"
+        ],
+        "Telugu": [
+          "పొలాలను క్రమం తప్పకుండా పరిశీలించండి",
+          "సాధ్యమైతే వ్యాధి నిరోధక విత్తన రకాలను ఉపయోగించండి"
+        ],
+        "Hindi": [
+          "खेतों की नियमित निगरानी करें",
+          "यदि संभव हो तो रोग प्रतिरोधी किस्मों का उपयोग करें"
+        ]
+      }
+    }
+  },
+
+  "wheat": {
+    "drought": {
+      "possible_impacts": {
+        "English": [
+          "Poor tillering",
+          "Reduced grain weight"
+        ],
+        "Telugu": [
+          "కొమ్మల ఏర్పాటులో లోపం",
+          "ధాన్య బరువు తగ్గిపోవడం"
+        ],
+        "Hindi": [
+          "कम टिलर बनना",
+          "दाने का वजन कम होना"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Provide irrigation at crown root initiation stage",
+          "Avoid moisture stress during grain filling"
+        ],
+        "Telugu": [
+          "క్రౌన్ రూట్ ప్రారంభ దశలో నీటిపారుదల చేయండి",
+          "ధాన్య నింపుదల సమయంలో తేమ ఒత్తిడి నివారించండి"
+        ],
+        "Hindi": [
+          "क्राउन रूट इनिशिएशन अवस्था में सिंचाई करें",
+          "दाने भरने के समय नमी तनाव से बचें"
+        ]
+      }
+    },
+    "frost": {
+      "possible_impacts": {
+        "English": [
+          "Seedling damage",
+          "Delayed growth"
+        ],
+        "Telugu": [
+          "మొలకలకు నష్టం",
+          "పెరుగుదల ఆలస్యం"
+        ],
+        "Hindi": [
+          "अंकुरों को नुकसान",
+          "विकास में देरी"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Light irrigation before frost",
+          "Avoid nitrogen application during frost conditions"
+        ],
+        "Telugu": [
+          "మంచు పడే ముందు తేలికపాటి నీటిపారుదల చేయండి",
+          "మంచు పరిస్థితుల్లో నత్రజని ఎరువులు వేయవద్దు"
+        ],
+        "Hindi": [
+          "पाला पड़ने से पहले हल्की सिंचाई करें",
+          "पाले की स्थिति में नाइट्रोजन उर्वरक न डालें"
+        ]
+      }
+    }
+  },
+
+  "cotton": {
+    "high_temperature": {
+      "possible_impacts": {
+        "English": [
+          "Square and boll shedding",
+          "Moisture stress"
+        ],
+        "Telugu": [
+          "స్క్వేర్ మరియు బోల్ పడిపోవడం",
+          "తేమ ఒత్తిడి"
+        ],
+        "Hindi": [
+          "स्क्वायर और बॉल झड़ना",
+          "नमी तनाव"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Ensure adequate irrigation",
+          "Use mulching to conserve moisture"
+        ],
+        "Telugu": [
+          "తగినంత నీటిపారుదల చేయండి",
+          "తేమ సంరక్షణకు మల్చింగ్ ఉపయోగించండి"
+        ],
+        "Hindi": [
+          "पर्याप्त सिंचाई सुनिश्चित करें",
+          "नमी संरक्षण के लिए मल्चिंग करें"
+        ]
+      }
+    },
+    "heavy_rain": {
+      "possible_impacts": {
+        "English": [
+          "Root damage",
+          "Increased pest infestation"
+        ],
+        "Telugu": [
+          "వేర్లకు నష్టం",
+          "కీటకాల దాడి పెరగడం"
+        ],
+        "Hindi": [
+          "जड़ों को नुकसान",
+          "कीट प्रकोप में वृद्धि"
+        ]
+      },
+      "general_advice": {
+        "English": [
+          "Improve field drainage",
+          "Monitor for pest outbreaks after rainfall"
+        ],
+        "Telugu": [
+          "పొలాల్లో నీటి పారుదల మెరుగుపరచండి",
+          "వర్షాల తర్వాత కీటకాల ఉధృతిని గమనించండి"
+        ],
+        "Hindi": [
+          "खेत में जल निकास सुधारें",
+          "वर्षा के बाद कीट प्रकोप की निगरानी करें"
+        ]
+      }
+    }
+  },
+
+  "__FALLBACK__": {
+    "message": {
+      "English": "Weather-related advisory for the specified condition is currently not available. Please follow local weather updates and consult agricultural experts for region-specific guidance.",
+      "Telugu": "ఈ పరిస్థితికి సంబంధించిన వాతావరణ సలహా ప్రస్తుతం అందుబాటులో లేదు. స్థానిక వాతావరణ సమాచారాన్ని అనుసరించి, వ్యవసాయ నిపుణులను సంప్రదించండి.",
+      "Hindi": "निर्दिष्ट स्थिति के लिए मौसम संबंधी सलाह उपलब्ध नहीं है। स्थानीय मौसम अपडेट का पालन करें और कृषि विशेषज्ञों से परामर्श लें।"
+    },
+    "note": {
+      "English": "This weather advisory module provides general precautions and can be extended with real-time data in the future.",
+      "Telugu": "ఈ వాతావరణ సలహా మాడ్యూల్ సాధారణ జాగ్రత్తలు మాత్రమే అందిస్తుంది మరియు భవిష్యత్తులో రియల్ టైమ్ డేటాతో విస్తరించవచ్చు.",
+      "Hindi": "यह मौसम सलाह मॉड्यूल सामान्य सावधानियाँ प्रदान करता है और भविष्य में रीयल-टाइम डेटा के साथ विस्तारित किया जा सकता है।"
+    }
+  }
+}

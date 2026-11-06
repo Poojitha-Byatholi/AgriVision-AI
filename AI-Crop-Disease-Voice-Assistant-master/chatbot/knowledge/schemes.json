@@ -1,0 +1,110 @@
+{
+  "PM_KISAN": {
+    "scheme_name": {
+      "English": "Pradhan Mantri Kisan Samman Nidhi",
+      "Telugu": "ప్రధాన్ మంత్రి కిసాన్ సమ్మాన్ నిధి",
+      "Hindi": "प्रधान मंत्री किसान सम्मान निधि"
+    },
+    "description": {
+      "English": "An income support scheme for farmers to provide financial assistance.",
+      "Telugu": "రైతులకు ఆర్థిక సహాయం అందించేందుకు రూపొందించిన ఆదాయ మద్దతు పథకం.",
+      "Hindi": "किसानों को वित्तीय सहायता प्रदान करने के लिए बनाई गई आय सहायता योजना।"
+    },
+    "benefits": {
+      "English": [
+        "Direct income support to farmers",
+        "Helps meet agricultural and household expenses"
+      ],
+      "Telugu": [
+        "రైతులకు నేరుగా ఆదాయ మద్దతు",
+        "వ్యవసాయ మరియు గృహ ఖర్చులను నిర్వహించడంలో సహాయపడుతుంది"
+      ],
+      "Hindi": [
+        "किसानों को प्रत्यक्ष आय सहायता",
+        "कृषि और घरेलू खर्चों को पूरा करने में मदद करता है"
+      ]
+    },
+    "note": {
+      "English": "Eligibility and benefits should be verified from official government sources.",
+      "Telugu": "అర్హత మరియు ప్రయోజనాలను అధికారిక ప్రభుత్వ వనరుల ద్వారా నిర్ధారించాలి.",
+      "Hindi": "पात्रता और लाभों की पुष्टि आधिकारिक सरकारी स्रोतों से करनी चाहिए।"
+    }
+  },
+
+  "Crop_Insurance": {
+    "scheme_name": {
+      "English": "Pradhan Mantri Fasal Bima Yojana",
+      "Telugu": "ప్రధాన్ మంత్రి ఫసల్ బీమా యోజన",
+      "Hindi": "प्रधान मंत्री फसल बीमा योजना"
+    },
+    "description": {
+      "English": "Provides insurance coverage and financial support to farmers in case of crop loss.",
+      "Telugu": "పంట నష్టానికి గురైన రైతులకు బీమా కవరేజ్ మరియు ఆర్థిక సహాయం అందిస్తుంది.",
+      "Hindi": "फसल नुकसान की स्थिति में किसानों को बीमा कवरेज और वित्तीय सहायता प्रदान करती है।"
+    },
+    "benefits": {
+      "English": [
+        "Protection against crop failure due to natural calamities",
+        "Risk mitigation for farmers"
+      ],
+      "Telugu": [
+        "ప్రకృతి విపత్తుల వల్ల పంట నష్టం నుండి రక్షణ",
+        "రైతులకు ప్రమాదాన్ని తగ్గిస్తుంది"
+      ],
+      "Hindi": [
+        "प्राकृतिक आपदाओं से फसल क्षति के विरुद्ध सुरक्षा",
+        "किसानों के लिए जोखिम में कमी"
+      ]
+    },
+    "note": {
+      "English": "Insurance coverage varies by crop and region.",
+      "Telugu": "బీమా కవరేజ్ పంట మరియు ప్రాంతాన్ని బట్టి మారుతుంది.",
+      "Hindi": "बीमा कवरेज फसल और क्षेत्र के अनुसार भिन्न होती है।"
+    }
+  },
+
+  "Soil_Health_Card": {
+    "scheme_name": {
+      "English": "Soil Health Card Scheme",
+      "Telugu": "సాయిల్ హెల్త్ కార్డ్ పథకం",
+      "Hindi": "मृदा स्वास्थ्य कार्ड योजना"
+    },
+    "description": {
+      "English": "Provides information on soil nutrient status and recommendations for soil improvement.",
+      "Telugu": "నేల పోషక స్థితి మరియు నేల మెరుగుదలకు అవసరమైన సిఫారసులను అందిస్తుంది.",
+      "Hindi": "मिट्टी की पोषक स्थिति और सुधार के लिए सिफारिशें प्रदान करती है।"
+    },
+    "benefits": {
+      "English": [
+        "Improves soil fertility awareness",
+        "Supports balanced fertilizer use"
+      ],
+      "Telugu": [
+        "నేల సారంపై అవగాహన పెంచుతుంది",
+        "సమతుల్య ఎరువుల వినియోగాన్ని ప్రోత్సహిస్తుంది"
+      ],
+      "Hindi": [
+        "मिट्टी की उर्वरता के प्रति जागरूकता बढ़ाता है",
+        "संतुलित उर्वरक उपयोग को समर्थन देता है"
+      ]
+    },
+    "note": {
+      "English": "Soil testing intervals and recommendations may vary.",
+      "Telugu": "నేల పరీక్ష వ్యవధులు మరియు సిఫారసులు మారవచ్చు.",
+      "Hindi": "मिट्टी परीक्षण की अवधि और सिफारिशें भिन्न हो सकती हैं।"
+    }
+  },
+
+  "__FALLBACK__": {
+    "message": {
+      "English": "Information about this government scheme is currently not available. Please refer to official government websites or local agricultural offices for accurate details.",
+      "Telugu": "ఈ ప్రభుత్వ పథకం గురించి సమాచారం ప్రస్తుతం అందుబాటులో లేదు. ఖచ్చితమైన వివరాల కోసం అధికారిక ప్రభుత్వ వెబ్‌సైట్లు లేదా స్థానిక వ్యవసాయ కార్యాలయాలను సంప్రదించండి.",
+      "Hindi": "इस सरकारी योजना की जानकारी वर्तमान में उपलब्ध नहीं है। सटीक विवरण के लिए आधिकारिक सरकारी वेबसाइटों या स्थानीय कृषि कार्यालयों से संपर्क करें।"
+    },
+    "note": {
+      "English": "Scheme information is provided for awareness purposes only.",
+      "Telugu": "పథకం సమాచారం అవగాహన కోసం మాత్రమే అందించబడింది.",
+      "Hindi": "योजना की जानकारी केवल जागरूकता के उद्देश्य से प्रदान की गई है।"
+    }
+  }
+}

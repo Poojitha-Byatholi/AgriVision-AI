@@ -1,0 +1,268 @@
+{
+  "Black_soil": {
+    "characteristics": {
+      "English": [
+        "High clay content",
+        "Good moisture retention"
+      ],
+      "Telugu": [
+        "అధిక మట్టి కణాల శాతం",
+        "మంచి తేమ నిల్వ సామర్థ్యం"
+      ],
+      "Hindi": [
+        "अधिक चिकनी मिट्टी की मात्रा",
+        "अच्छी नमी धारण क्षमता"
+      ]
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Wheat",
+      "Maize"
+    ],
+    "general_advice": {
+      "English": [
+        "Ensure proper drainage to avoid waterlogging",
+        "Avoid excessive irrigation"
+      ],
+      "Telugu": [
+        "నీరు నిల్వ కాకుండా సరైన నీటి పారుదల ఏర్పాటు చేయండి",
+        "అధిక నీటిపారుదల నివారించండి"
+      ],
+      "Hindi": [
+        "जलभराव से बचने के लिए उचित जल निकास सुनिश्चित करें",
+        "अधिक सिंचाई से बचें"
+      ]
+    },
+    "note": {
+      "English": "Soil behavior may vary based on location and management practices.",
+      "Telugu": "ప్రాంతం మరియు నిర్వహణ విధానాలను బట్టి నేల లక్షణాలు మారవచ్చు.",
+      "Hindi": "स्थान और प्रबंधन पद्धतियों के अनुसार मिट्टी का व्यवहार बदल सकता है।"
+    }
+  },
+
+  "Red_soil": {
+    "characteristics": {
+      "English": [
+        "Low organic matter",
+        "Well-drained"
+      ],
+      "Telugu": [
+        "తక్కువ సేంద్రీయ పదార్థం",
+        "మంచి నీటి పారుదల"
+      ],
+      "Hindi": [
+        "कम जैविक पदार्थ",
+        "अच्छी जल निकासी"
+      ]
+    },
+    "suitable_crops": [
+      "Tomato",
+      "Pepper",
+      "Groundnut"
+    ],
+    "general_advice": {
+      "English": [
+        "Add organic manure to improve fertility",
+        "Apply balanced fertilizers"
+      ],
+      "Telugu": [
+        "నేల సారాన్ని పెంచేందుకు సేంద్రీయ ఎరువులు జోడించండి",
+        "సమతుల్య ఎరువులను ఉపయోగించండి"
+      ],
+      "Hindi": [
+        "उर्वरता बढ़ाने के लिए जैविक खाद मिलाएँ",
+        "संतुलित उर्वरकों का प्रयोग करें"
+      ]
+    },
+    "note": {
+      "English": "Soil testing is recommended for accurate nutrient management.",
+      "Telugu": "ఖచ్చితమైన పోషక నిర్వహణ కోసం నేల పరీక్ష చేయడం మంచిది.",
+      "Hindi": "सटीक पोषक प्रबंधन के लिए मिट्टी परीक्षण की सलाह दी जाती है।"
+    }
+  },
+
+  "Alluvial_soil": {
+    "characteristics": {
+      "English": [
+        "Fertile and rich in minerals",
+        "Good water-holding capacity"
+      ],
+      "Telugu": [
+        "ఖనిజాలతో సమృద్ధిగా మరియు సారవంతమైన నేల",
+        "మంచి నీటి నిల్వ సామర్థ్యం"
+      ],
+      "Hindi": [
+        "खनिजों से भरपूर और उपजाऊ मिट्टी",
+        "अच्छी जल धारण क्षमता"
+      ]
+    },
+    "suitable_crops": [
+      "Rice",
+      "Wheat",
+      "Maize"
+    ],
+    "general_advice": {
+      "English": [
+        "Maintain balanced nutrient application",
+        "Ensure timely irrigation"
+      ],
+      "Telugu": [
+        "సమతుల్య పోషకాల వినియోగాన్ని కొనసాగించండి",
+        "సమయానికి నీటిపారుదల చేయండి"
+      ],
+      "Hindi": [
+        "संतुलित पोषक तत्वों का प्रयोग बनाए रखें",
+        "समय पर सिंचाई सुनिश्चित करें"
+      ]
+    },
+    "note": {
+      "English": "Nutrient availability may change with continuous cropping.",
+      "Telugu": "నిరంతర పంటల సాగుతో పోషకాల లభ్యత మారవచ్చు.",
+      "Hindi": "लगातार खेती से पोषक तत्वों की उपलब्धता बदल सकती है।"
+    }
+  },
+
+  "Sandy_soil": {
+    "characteristics": {
+      "English": [
+        "Low water retention",
+        "Light texture"
+      ],
+      "Telugu": [
+        "తక్కువ నీటి నిల్వ సామర్థ్యం",
+        "తేలికపాటి నేల నిర్మాణం"
+      ],
+      "Hindi": [
+        "कम जल धारण क्षमता",
+        "हल्की बनावट"
+      ]
+    },
+    "suitable_crops": [
+      "Potato",
+      "Pepper"
+    ],
+    "general_advice": {
+      "English": [
+        "Increase organic matter content",
+        "Apply fertilizers in split doses"
+      ],
+      "Telugu": [
+        "సేంద్రీయ పదార్థాన్ని పెంచండి",
+        "ఎరువులను విడతలుగా వేయండి"
+      ],
+      "Hindi": [
+        "जैविक पदार्थ की मात्रा बढ़ाएँ",
+        "उर्वरकों को विभाजित मात्रा में डालें"
+      ]
+    },
+    "note": {
+      "English": "Frequent irrigation may be required due to poor moisture retention.",
+      "Telugu": "తేమ నిల్వ సామర్థ్యం తక్కువగా ఉండటంతో తరచుగా నీటిపారుదల అవసరం కావచ్చు.",
+      "Hindi": "कम नमी धारण क्षमता के कारण बार-बार सिंचाई की आवश्यकता हो सकती है।"
+    }
+  },
+
+  "Nitrogen_deficiency": {
+    "common_symptoms": {
+      "English": [
+        "Yellowing of older leaves",
+        "Poor plant growth"
+      ],
+      "Telugu": [
+        "పాత ఆకులు పసుపు రంగులోకి మారడం",
+        "మొక్కల పెరుగుదల బలహీనంగా ఉండటం"
+      ],
+      "Hindi": [
+        "पुरानी पत्तियों का पीला पड़ना",
+        "पौधों की कमजोर वृद्धि"
+      ]
+    },
+    "affected_crops": [
+      "Rice",
+      "Wheat",
+      "Maize"
+    ],
+    "general_advice": {
+      "English": [
+        "Apply nitrogen-based fertilizers judiciously",
+        "Incorporate organic manure"
+      ],
+      "Telugu": [
+        "నత్రజని ఆధారిత ఎరువులను జాగ్రత్తగా వినియోగించండి",
+        "సేంద్రీయ ఎరువులను నేలలో కలపండి"
+      ],
+      "Hindi": [
+        "नाइट्रोजन आधारित उर्वरकों का संतुलित उपयोग करें",
+        "जैविक खाद मिलाएँ"
+      ]
+    },
+    "note": {
+      "English": "Over-application may lead to environmental issues.",
+      "Telugu": "అధిక వినియోగం పర్యావరణ సమస్యలకు దారి తీస్తుంది.",
+      "Hindi": "अधिक प्रयोग से पर्यावरणीय समस्याएँ हो सकती हैं।"
+    }
+  },
+
+  "Phosphorus_deficiency": {
+    "common_symptoms": {
+      "English": [
+        "Stunted growth",
+        "Purplish discoloration of leaves"
+      ],
+      "Telugu": [
+        "మొక్కల పెరుగుదల మందగించడం",
+        "ఆకులు ఊదా రంగులోకి మారడం"
+      ],
+      "Hindi": [
+        "पौधों की वृद्धि रुक जाना",
+        "पत्तियों का बैंगनी रंग होना"
+      ]
+    },
+    "affected_crops": [
+      "Potato",
+      "Tomato",
+      "Cotton"
+    ],
+    "general_advice": {
+      "English": [
+        "Use phosphorus-rich fertilizers",
+        "Improve soil pH if required"
+      ],
+      "Telugu": [
+        "ఫాస్ఫరస్ అధికంగా ఉన్న ఎరువులను ఉపయోగించండి",
+        "అవసరమైతే నేల pH మెరుగుపరచండి"
+      ],
+      "Hindi": [
+        "फॉस्फोरस युक्त उर्वरकों का प्रयोग करें",
+        "आवश्यक हो तो मिट्टी का pH सुधारें"
+      ]
+    },
+    "note": {
+      "English": "Soil pH affects phosphorus availability.",
+      "Telugu": "నేల pH ఫాస్ఫరస్ లభ్యతను ప్రభావితం చేస్తుంది.",
+      "Hindi": "मिट्टी का pH फॉस्फोरस की उपलब्धता को प्रभावित करता है।"
+    }
+  },
+
+  "__FALLBACK__": {
+    "message": {
+      "English": "Soil-related information for the specified condition is not available. It is recommended to conduct a soil test and consult local agricultural experts for accurate guidance.",
+      "Telugu": "ఈ పరిస్థితికి సంబంధించిన నేల సమాచారం అందుబాటులో లేదు. ఖచ్చితమైన మార్గదర్శకత్వం కోసం నేల పరీక్ష చేసి, స్థానిక వ్యవసాయ నిపుణులను సంప్రదించండి.",
+      "Hindi": "निर्दिष्ट स्थिति के लिए मिट्टी संबंधी जानकारी उपलब्ध नहीं है। सटीक मार्गदर्शन के लिए मिट्टी परीक्षण और स्थानीय कृषि विशेषज्ञों से परामर्श लें।"
+    },
+    "supported_crops": [
+      "Tomato",
+      "Potato",
+      "Rice",
+      "Wheat",
+      "Cotton",
+      "Pepper",
+      "Maize"
+    ],
+    "note": {
+      "English": "The soil advisory module provides general information and is expandable.",
+      "Telugu": "నేల సలహా మాడ్యూల్ సాధారణ సమాచారం మాత్రమే అందిస్తుంది మరియు విస్తరించవచ్చు.",
+      "Hindi": "मिट्टी सलाह मॉड्यूल सामान्य जानकारी प्रदान करता है और इसे विस्तारित किया जा सकता है।"
+    }
+  }
+}

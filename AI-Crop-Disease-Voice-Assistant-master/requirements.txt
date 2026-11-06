@@ -1,0 +1,14 @@
+streamlit
+tensorflow
+opencv-python
+Pillow
+numpy
+pandas
+matplotlib
+scikit-learn
+requests
+googletrans==4.0.0-rc1
+SpeechRecognition
+gTTS
+pydub
+python-dotenv

@@ -1,0 +1,264 @@
+{
+  "Rice": {
+    "kharif": {
+      "sowing_period": {
+        "English": "June to July",
+        "Telugu": "జూన్ నుండి జూలై",
+        "Hindi": "जून से जुलाई"
+      },
+      "harvest_period": {
+        "English": "October to November",
+        "Telugu": "అక్టోబర్ నుండి నవంబర్",
+        "Hindi": "अक्टूबर से नवंबर"
+      },
+      "general_advice": {
+        "English": [
+          "Ensure adequate water availability during early growth",
+          "Maintain proper field leveling for uniform water distribution"
+        ],
+        "Telugu": [
+          "ప్రారంభ పెరుగుదల సమయంలో తగినంత నీరు అందుబాటులో ఉండేలా చూడండి",
+          "సమానమైన నీటి పంపిణీ కోసం పొలాన్ని సరిగ్గా సమతలపరచండి"
+        ],
+        "Hindi": [
+          "प्रारंभिक वृद्धि के दौरान पर्याप्त जल उपलब्धता सुनिश्चित करें",
+          "समान जल वितरण के लिए खेत का उचित समतलीकरण करें"
+        ]
+      },
+      "note": {
+        "English": "Sowing time may vary based on monsoon onset and region.",
+        "Telugu": "విత్తే సమయం వర్షాకాల ప్రారంభం మరియు ప్రాంతాన్ని బట్టి మారవచ్చు.",
+        "Hindi": "बुवाई का समय मानसून की शुरुआत और क्षेत्र के अनुसार बदल सकता है।"
+      }
+    }
+  },
+
+  "Wheat": {
+    "season": {
+      "English": "Rabi",
+      "Telugu": "రబీ",
+      "Hindi": "रबी"
+    },
+    "sowing_period": {
+      "English": "October to November",
+      "Telugu": "అక్టోబర్ నుండి నవంబర్",
+      "Hindi": "अक्टूबर से नवंबर"
+    },
+    "harvest_period": {
+      "English": "March to April",
+      "Telugu": "మార్చి నుండి ఏప్రిల్",
+      "Hindi": "मार्च से अप्रैल"
+    },
+    "general_advice": {
+      "English": [
+        "Avoid late sowing to reduce disease risk",
+        "Ensure timely irrigation during critical growth stages"
+      ],
+      "Telugu": [
+        "వ్యాధి ప్రమాదాన్ని తగ్గించేందుకు ఆలస్యంగా విత్తడాన్ని నివారించండి",
+        "ముఖ్యమైన పెరుగుదల దశల్లో సమయానికి నీటిపారుదల చేయండి"
+      ],
+      "Hindi": [
+        "रोग जोखिम कम करने के लिए देर से बुवाई से बचें",
+        "महत्वपूर्ण वृद्धि चरणों में समय पर सिंचाई सुनिश्चित करें"
+      ]
+    },
+    "note": {
+      "English": "Temperature variation affects crop duration.",
+      "Telugu": "ఉష్ణోగ్రత మార్పులు పంట వ్యవధిని ప్రభావితం చేస్తాయి.",
+      "Hindi": "तापमान में परिवर्तन फसल अवधि को प्रभावित करता है।"
+    }
+  },
+
+  "Tomato": {
+    "multiple_seasons": {
+      "sowing_period": {
+        "English": "June–July, October–November",
+        "Telugu": "జూన్–జూలై, అక్టోబర్–నవంబర్",
+        "Hindi": "जून–जुलाई, अक्टूबर–नवंबर"
+      },
+      "harvest_period": {
+        "English": "Depends on variety (60–90 days)",
+        "Telugu": "వెరైటీపై ఆధారపడి ఉంటుంది (60–90 రోజులు)",
+        "Hindi": "किस्म पर निर्भर करता है (60–90 दिन)"
+      },
+      "general_advice": {
+        "English": [
+          "Select season-appropriate varieties",
+          "Protect plants from extreme heat or frost"
+        ],
+        "Telugu": [
+          "కాలానికి అనుకూలమైన వెరైటీలను ఎంచుకోండి",
+          "తీవ్రమైన వేడి లేదా మంచు నుండి మొక్కలను రక్షించండి"
+        ],
+        "Hindi": [
+          "मौसम के अनुसार उपयुक्त किस्में चुनें",
+          "अत्यधिक गर्मी या पाले से पौधों की रक्षा करें"
+        ]
+      },
+      "note": {
+        "English": "Tomato can be grown year-round under suitable conditions.",
+        "Telugu": "సరైన పరిస్థితులలో టమాటాను సంవత్సరమంతా సాగు చేయవచ్చు.",
+        "Hindi": "उपयुक्त परिस्थितियों में टमाटर पूरे वर्ष उगाया जा सकता है।"
+      }
+    }
+  },
+
+  "Potato": {
+    "rabi": {
+      "sowing_period": {
+        "English": "October to November",
+        "Telugu": "అక్టోబర్ నుండి నవంబర్",
+        "Hindi": "अक्टूबर से नवंबर"
+      },
+      "harvest_period": {
+        "English": "January to February",
+        "Telugu": "జనవరి నుండి ఫిబ్రవరి",
+        "Hindi": "जनवरी से फरवरी"
+      },
+      "general_advice": {
+        "English": [
+          "Avoid waterlogging during tuber formation",
+          "Maintain loose soil for proper tuber growth"
+        ],
+        "Telugu": [
+          "గడ్డల ఏర్పాటులో నీరు నిల్వ కావడం నివారించండి",
+          "గడ్డల సరైన పెరుగుదలకు మృదువైన నేల ఉంచండి"
+        ],
+        "Hindi": [
+          "कंद बनने के समय जलभराव से बचें",
+          "उचित कंद विकास के लिए मिट्टी ढीली रखें"
+        ]
+      },
+      "note": {
+        "English": "Cool temperatures favor better tuber development.",
+        "Telugu": "చల్లని ఉష్ణోగ్రతలు గడ్డల మెరుగైన అభివృద్ధికి అనుకూలం.",
+        "Hindi": "ठंडा तापमान कंद के बेहतर विकास के लिए अनुकूल होता है।"
+      }
+    }
+  },
+
+  "Cotton": {
+    "kharif": {
+      "sowing_period": {
+        "English": "June to July",
+        "Telugu": "జూన్ నుండి జూలై",
+        "Hindi": "जून से जुलाई"
+      },
+      "harvest_period": {
+        "English": "December to January",
+        "Telugu": "డిసెంబర్ నుండి జనవరి",
+        "Hindi": "दिसंबर से जनवरी"
+      },
+      "general_advice": {
+        "English": [
+          "Ensure proper spacing to reduce pest incidence",
+          "Avoid excess nitrogen during later stages"
+        ],
+        "Telugu": [
+          "కీటక సమస్యలను తగ్గించేందుకు సరైన అంతరం ఉంచండి",
+          "చివరి దశల్లో అధిక నత్రజని నివారించండి"
+        ],
+        "Hindi": [
+          "कीट प्रकोप कम करने के लिए उचित दूरी रखें",
+          "अंतिम चरणों में अधिक नाइट्रोजन से बचें"
+        ]
+      },
+      "note": {
+        "English": "Weather conditions influence crop duration.",
+        "Telugu": "వాతావరణ పరిస్థితులు పంట వ్యవధిని ప్రభావితం చేస్తాయి.",
+        "Hindi": "मौसम की स्थिति फसल अवधि को प्रभावित करती है।"
+      }
+    }
+  },
+
+  "Pepper": {
+    "multiple_seasons": {
+      "sowing_period": {
+        "English": "June–July, October–November",
+        "Telugu": "జూన్–జూలై, అక్టోబర్–నవంబర్",
+        "Hindi": "जून–जुलाई, अक्टूबर–नवंबर"
+      },
+      "harvest_period": {
+        "English": "Depends on variety",
+        "Telugu": "వెరైటీపై ఆధారపడి ఉంటుంది",
+        "Hindi": "किस्म पर निर्भर करता है"
+      },
+      "general_advice": {
+        "English": [
+          "Ensure adequate sunlight",
+          "Protect plants from heavy rain and water stagnation"
+        ],
+        "Telugu": [
+          "తగినంత సూర్యకాంతి ఉండేలా చూసుకోండి",
+          "భారీ వర్షాలు మరియు నీరు నిల్వ కావడం నుండి మొక్కలను రక్షించండి"
+        ],
+        "Hindi": [
+          "पर्याप्त धूप सुनिश्चित करें",
+          "भारी वर्षा और जलभराव से पौधों की रक्षा करें"
+        ]
+      },
+      "note": {
+        "English": "Season suitability varies by local climate.",
+        "Telugu": "స్థానిక వాతావరణాన్ని బట్టి కాల అనుకూలత మారుతుంది.",
+        "Hindi": "मौसम की उपयुक्तता स्थानीय जलवायु पर निर्भर करती है।"
+      }
+    }
+  },
+
+  "Maize": {
+    "kharif": {
+      "sowing_period": {
+        "English": "June to July",
+        "Telugu": "జూన్ నుండి జూలై",
+        "Hindi": "जून से जुलाई"
+      },
+      "harvest_period": {
+        "English": "September to October",
+        "Telugu": "సెప్టెంబర్ నుండి అక్టోబర్",
+        "Hindi": "सितंबर से अक्टूबर"
+      },
+      "general_advice": {
+        "English": [
+          "Avoid moisture stress during tasseling",
+          "Ensure balanced nutrition"
+        ],
+        "Telugu": [
+          "టాసెలింగ్ సమయంలో తేమ ఒత్తిడి నివారించండి",
+          "సమతుల్య పోషణను నిర్ధారించండి"
+        ],
+        "Hindi": [
+          "टैसलिंग के समय नमी तनाव से बचें",
+          "संतुलित पोषण सुनिश्चित करें"
+        ]
+      },
+      "note": {
+        "English": "Maize can also be grown in rabi season in some regions.",
+        "Telugu": "కొన్ని ప్రాంతాల్లో మక్కను రబీ కాలంలో కూడా సాగు చేయవచ్చు.",
+        "Hindi": "कुछ क्षेत्रों में मक्का रबी मौसम में भी उगाया जा सकता है।"
+      }
+    }
+  },
+
+  "__FALLBACK__": {
+    "message": {
+      "English": "Seasonal information for the specified crop is currently limited. Please consult local agricultural calendars or experts for region-specific guidance.",
+      "Telugu": "ఈ పంటకు సంబంధించిన కాలానుగుణ సమాచారం ప్రస్తుతం పరిమితంగా ఉంది. ప్రాంతానుగుణ మార్గదర్శకత్వం కోసం వ్యవసాయ క్యాలెండర్లు లేదా నిపుణులను సంప్రదించండి.",
+      "Hindi": "निर्दिष्ट फसल के लिए मौसमी जानकारी सीमित है। क्षेत्र-विशिष्ट मार्गदर्शन के लिए कृषि कैलेंडर या विशेषज्ञों से परामर्श लें।"
+    },
+    "supported_crops": [
+      "Tomato",
+      "Potato",
+      "Rice",
+      "Wheat",
+      "Cotton",
+      "Pepper",
+      "Maize"
+    ],
+    "note": {
+      "English": "Seasonal recommendations may vary by region and climate.",
+      "Telugu": "కాలానుగుణ సిఫారసులు ప్రాంతం మరియు వాతావరణాన్ని బట్టి మారవచ్చు.",
+      "Hindi": "मौसमी सिफारिशें क्षेत्र और जलवायु के अनुसार बदल सकती हैं।"
+    }
+  }
+}
